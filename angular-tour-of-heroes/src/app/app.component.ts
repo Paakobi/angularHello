@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Agular Tour of Heroes';
-  subtitle = 'Hey there ';
+ 
 }
